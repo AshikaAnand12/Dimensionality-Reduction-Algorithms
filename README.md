@@ -25,3 +25,6 @@ Working of UMAP: UMAP uses exponential probability distribution for higher dimen
 Disadvanatge of UMAP: It is a new tecnique and has to be adopted  
   
 ## 4. Dimensionality Reduction using Tabular Dataset ##
+I have used penguins dataset for computing PCA and SVD to obtain the transformed matrix. We also measure accuracy of all the dimensioanlity reduction techniques for numerical classified data created by using make_classification.  
+  
+  
