@@ -6,7 +6,7 @@ Disadvantage of PCA: If number of features are high, it is difficult to interpre
 
 ## 2. Image Compression using SVD ##
 In this section, a colourful image is considered. It is converted to the gray scale similar to the PCA and for similar reasons and convert the image into numpy matrix.  
-To compute SVD, I have used: *np.linalg.svd()*. 
+To compute SVD, I have used: *np.linalg.svd()*.  
 Then we reconstruct the image using different number of components
 
 ##3. Dimensionality Reduction using LLE, t-SNE, ISOMAP, UMAP for Visual Dataset##
